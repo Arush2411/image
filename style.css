@@ -1,0 +1,26 @@
+body
+{
+color: whitesmoke;
+background-color: pink;
+
+}
+
+.heading
+{
+    font-size: 30px;
+    width: auto;
+}
+
+#camera
+{
+    border-color: black;
+    border-style: ridge;
+    border-width: 5px;
+    height: 300px;
+    width: 350px;
+}
+
+#result_object_name , #result_object_accuracy , .name_of_objects
+{
+    color: crimson;
+}
